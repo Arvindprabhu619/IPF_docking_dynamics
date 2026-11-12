@@ -1,0 +1,6 @@
+System_Folder	Target	Ligand	Role	Vina_Affinity_kcal_mol	Ligand_Net_Charge	Key_Pocket_Residues
+01_PPARG_Native_BRL_Control	PPARG (2PRG:A)	Rosiglitazone (BRL)	Positive Crystallographic Reference Control	-8.33	0	HIS323, TYR327, HIS449, TYR473, CYS285, ARG288
+02_PPARG_Chelerythrine	PPARG (2PRG:A)	Chelerythrine	Lead Candidate #1 (Highest Multi-Target & PPARG Affinity)	-8.74	1	ARG280, ILE281, GLY284, ARG288, ILE341, GLU343
+03_PPARG_Berberine	PPARG (2PRG:A)	Berberine (Quaternary Cation)	Lead Candidate #2 (High QED=0.674, Zero PAINS)	-8.41	1	ARG280, CYS285, ARG288, LEU340, ILE341
+04_PPARG_Curcumin	PPARG (2PRG:A)	Curcumin	Lead Candidate #3 (Canonical PPARG Agonist H-Bonding)	-8.12	0	CYS285, ARG288, HIS323, TYR327, LEU340, HIS449
+05_STAT3_Quercetin	STAT3 (6NJS:A)	Quercetin	Secondary Target Validation (STAT3 SH2 pTyr705 Pocket)	-5.64	0	GLU638, PRO639, TYR640, GLN644, GLY656, TYR657, LYS658

@@ -1,0 +1,20 @@
+{
+  "system_id": "04_PPARG_Curcumin",
+  "receptor_gene": "PPARG",
+  "pdb_id": "2PRG",
+  "chain": "A",
+  "ligand_name": "Curcumin",
+  "ligand_resname_in_pdb": "LIG",
+  "role": "Lead Candidate #3 (Canonical PPARG Agonist H-Bonding)",
+  "autodock_vina_affinity_kcal_mol": -8.12,
+  "ligand_net_formal_charge": 0,
+  "canonical_smiles": "COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O",
+  "key_binding_pocket_residues": "CYS285, ARG288, HIS323, TYR327, LEU340, HIS449",
+  "files": {
+    "receptor_pdb": "PPARG_2PRG_receptor.pdb",
+    "ligand_pdb": "Curcumin_top1_pose.pdb",
+    "ligand_sdf": "Curcumin_top1_pose.sdf",
+    "ligand_mol2": "Curcumin_top1_pose.mol2",
+    "merged_complex_pdb": "04_PPARG_Curcumin_complex.pdb"
+  }
+}

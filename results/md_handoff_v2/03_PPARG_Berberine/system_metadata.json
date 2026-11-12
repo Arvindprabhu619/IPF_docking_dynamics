@@ -1,0 +1,20 @@
+{
+  "system_id": "03_PPARG_Berberine",
+  "receptor_gene": "PPARG",
+  "pdb_id": "2PRG",
+  "chain": "A",
+  "ligand_name": "Berberine (Quaternary Cation)",
+  "ligand_resname_in_pdb": "LIG",
+  "role": "Lead Candidate #2 (High QED=0.674, Zero PAINS)",
+  "autodock_vina_affinity_kcal_mol": -8.41,
+  "ligand_net_formal_charge": 1,
+  "canonical_smiles": "COc1ccc2cc3[n+](cc2c1OC)CCc1cc2c(cc1-3)OCO2",
+  "key_binding_pocket_residues": "ARG280, CYS285, ARG288, LEU340, ILE341",
+  "files": {
+    "receptor_pdb": "PPARG_2PRG_receptor.pdb",
+    "ligand_pdb": "Berberine_chloride_top1_pose.pdb",
+    "ligand_sdf": "Berberine_chloride_top1_pose.sdf",
+    "ligand_mol2": "Berberine_chloride_top1_pose.mol2",
+    "merged_complex_pdb": "03_PPARG_Berberine_complex.pdb"
+  }
+}

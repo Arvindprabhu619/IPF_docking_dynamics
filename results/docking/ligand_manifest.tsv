@@ -1,0 +1,15 @@
+lig_id	name	imppat_id	pubchem_cid	role	pdbqt
+Genistein	Genistein	IMPPAT3_PHYID001768	CID_5280961	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Genistein.pdbqt
+Quercetin	Quercetin	IMPPAT3_PHYID000007	CID_5280343	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Quercetin.pdbqt
+Chelerythrine	Chelerythrine	IMPPAT3_PHYID003541	CID_2703	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Chelerythrine.pdbqt
+Apigenin	Apigenin	IMPPAT3_PHYID000156	CID_5280443	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Apigenin.pdbqt
+biochanin_A	biochanin A	IMPPAT3_PHYID001766	CID_5280373	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/biochanin_A.pdbqt
+Acacetin	Acacetin	IMPPAT3_PHYID001774	CID_5280442	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Acacetin.pdbqt
+Kaempferol	Kaempferol	IMPPAT3_PHYID000251	CID_5280863	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Kaempferol.pdbqt
+Papaverine	Papaverine	IMPPAT3_PHYID009747	CID_4680	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Papaverine.pdbqt
+Curcumin	Curcumin	IMPPAT3_PHYID005594	CID_969516	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Curcumin.pdbqt
+Berberine_chloride	Berberine chloride	IMPPAT3_PHYID004533	CID_12456	Lead_Candidate	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Berberine_chloride.pdbqt
+Pirfenidone	Pirfenidone (Clinical Control)	REF	REF	Clinical_Control	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Pirfenidone.pdbqt
+Native_BRL	Rosiglitazone (BRL, 2PRG Native)	REF	REF	Native_Control	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Native_BRL.pdbqt
+Native_KQV	SD-36 (KQV, 6NJS Native)	REF	REF	Native_Control	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Native_KQV.pdbqt
+Native_F7N	MK-0812 (F7N, 6GPS Native)	REF	REF	Native_Control	/home/spiseq/Desktop/IPF_repeated/results/docking/ligands/Native_F7N.pdbqt

@@ -1,0 +1,20 @@
+{
+  "system_id": "05_STAT3_Quercetin",
+  "receptor_gene": "STAT3",
+  "pdb_id": "6NJS",
+  "chain": "A",
+  "ligand_name": "Quercetin",
+  "ligand_resname_in_pdb": "LIG",
+  "role": "Secondary Target Validation (STAT3 SH2 pTyr705 Pocket)",
+  "autodock_vina_affinity_kcal_mol": -5.64,
+  "ligand_net_formal_charge": 0,
+  "canonical_smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+  "key_binding_pocket_residues": "GLU638, PRO639, TYR640, GLN644, GLY656, TYR657, LYS658",
+  "files": {
+    "receptor_pdb": "STAT3_6NJS_receptor.pdb",
+    "ligand_pdb": "Quercetin_top1_pose.pdb",
+    "ligand_sdf": "Quercetin_top1_pose.sdf",
+    "ligand_mol2": "Quercetin_top1_pose.mol2",
+    "merged_complex_pdb": "05_STAT3_Quercetin_complex.pdb"
+  }
+}

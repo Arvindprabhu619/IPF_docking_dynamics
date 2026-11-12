@@ -1,0 +1,20 @@
+{
+  "system_id": "02_PPARG_Chelerythrine",
+  "receptor_gene": "PPARG",
+  "pdb_id": "2PRG",
+  "chain": "A",
+  "ligand_name": "Chelerythrine",
+  "ligand_resname_in_pdb": "LIG",
+  "role": "Lead Candidate #1 (Highest Multi-Target & PPARG Affinity)",
+  "autodock_vina_affinity_kcal_mol": -8.74,
+  "ligand_net_formal_charge": 1,
+  "canonical_smiles": "COc1ccc2c3c([n+](C)cc2c1OC)c1cc2c(cc1cc3)OCO2",
+  "key_binding_pocket_residues": "ARG280, ILE281, GLY284, ARG288, ILE341, GLU343",
+  "files": {
+    "receptor_pdb": "PPARG_2PRG_receptor.pdb",
+    "ligand_pdb": "Chelerythrine_top1_pose.pdb",
+    "ligand_sdf": "Chelerythrine_top1_pose.sdf",
+    "ligand_mol2": "Chelerythrine_top1_pose.mol2",
+    "merged_complex_pdb": "02_PPARG_Chelerythrine_complex.pdb"
+  }
+}

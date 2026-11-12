@@ -1,0 +1,43 @@
+# --- OS, R & Python Scratch Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+#*#
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+Rplots.pdf
+
+# --- Large Public Reference & Raw Sequencing Files ---
+data/raw/
+data/reference/*.gtf
+data/reference/*.fa
+data/reference/*.fasta
+
+# --- Heavy Raster Figures (PDF & PNG are tracked) ---
+results/figures/tiff/
+
+# --- Heavy MD Archives, Binaries & GROMACS Intermediates ---
+*.zip
+*.tar.gz
+*.xtc
+*.trr
+*.tpr
+*.edr
+*.cpt
+*.gro
+*.top
+*.itp
+*.ndx
+*.log
+*.trj
+mdout.mdp
+step*.pdb
+results/md_prepared_200ns/*/
+!results/md_prepared_200ns/MD_HANDOFF_PROTOCOL.md
+!results/md_prepared_200ns/MD_SYSTEMS_SUMMARY.tsv
+!results/md_prepared_200ns/run_all_200ns_production.sh

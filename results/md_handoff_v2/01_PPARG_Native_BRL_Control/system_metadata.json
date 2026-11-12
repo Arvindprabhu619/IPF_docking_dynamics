@@ -1,0 +1,20 @@
+{
+  "system_id": "01_PPARG_Native_BRL_Control",
+  "receptor_gene": "PPARG",
+  "pdb_id": "2PRG",
+  "chain": "A",
+  "ligand_name": "Rosiglitazone (BRL)",
+  "ligand_resname_in_pdb": "LIG",
+  "role": "Positive Crystallographic Reference Control",
+  "autodock_vina_affinity_kcal_mol": -8.33,
+  "ligand_net_formal_charge": 0,
+  "canonical_smiles": "CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1",
+  "key_binding_pocket_residues": "HIS323, TYR327, HIS449, TYR473, CYS285, ARG288",
+  "files": {
+    "receptor_pdb": "PPARG_2PRG_receptor.pdb",
+    "ligand_pdb": "Native_BRL_top1_pose.pdb",
+    "ligand_sdf": "Native_BRL_top1_pose.sdf",
+    "ligand_mol2": "Native_BRL_top1_pose.mol2",
+    "merged_complex_pdb": "01_PPARG_Native_BRL_Control_complex.pdb"
+  }
+}
